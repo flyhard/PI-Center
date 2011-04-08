@@ -1,0 +1,7 @@
+- Save all planets that you have a Command Center on
+- Register the endproducts you want to produce
+- System tells you what you need (and where) for the endProduct. You select if you want to produce it yourself or buy it.
+- If you select "buy", you can specify if you want it private, corp, alliance or public.
+- Specify the Buffer time you want to have (i.e. 1 week supply)
+- Show who needs your endproducts and how much (per week & total right now)
+- You can offer someone to supply all or parts of your endproduct on a regular basis
